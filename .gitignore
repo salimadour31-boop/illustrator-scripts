@@ -1,0 +1,3 @@
+node_modules/
+*_out.txt
+.DS_Store
